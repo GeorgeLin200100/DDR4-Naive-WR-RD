@@ -1,5 +1,6 @@
 # DDR4-Naive-WR-RD
 **Description:** DDR4 naive write & read test based on DDR4 SDRAM (MIG) example design. All DDR4 IP settings remain default.Only tested with xsim behavioral simulation. 
+
 **Procedure:** 
 1. Write 20 data into DDR4
 2. Read first 10 data
