@@ -8,3 +8,6 @@
 4. Add them
 5. Write back 10 results into DDR4
 6. Read these results to verify correctness
+
+**Details:**
+Please refer to the acticle: https://www.cnblogs.com/georgelin/articles/17986150
